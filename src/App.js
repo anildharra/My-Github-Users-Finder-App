@@ -11,7 +11,7 @@ import GithubState from './context/github/GithubState';
 import AlertState from './context/alert/AlertState';
 
 import './App.css';
-
+// function component
 const App = () => {
   return (
     <GithubState>
